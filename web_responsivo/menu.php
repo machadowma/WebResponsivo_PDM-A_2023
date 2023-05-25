@@ -6,9 +6,11 @@
     </button>
     <div class="collapse navbar-collapse" id="collapsibleNavbar">
       <ul class="navbar-nav">
+
         <li class="nav-item">
           <a class="nav-link" href="/web_responsivo/app-javascript/">JavaScript</a>
         </li> 
+
         <li class="nav-item dropdown">
           <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">PHP</a>
           <ul class="dropdown-menu">
@@ -19,6 +21,15 @@
             <li><a class="dropdown-item" href="#">Continua ...</a></li>
           </ul>
         </li>
+
+        <li class="nav-item dropdown">
+          <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown">Para o Futuro</a>
+          <ul class="dropdown-menu">
+            <li><a class="dropdown-item" href="https://www.w3schools.com/nodejs/nodejs_get_started.asp">Node.js</a></li>
+            <li><a class="dropdown-item" href="https://www.w3schools.com/react/react_getstarted.asp">React</a></li>
+          </ul>
+        </li>
+
       </ul>
     </div>
   </div>

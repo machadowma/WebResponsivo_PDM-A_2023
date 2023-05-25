@@ -16,6 +16,19 @@
     <h1>Sistemas Web Responsivos</h1>
     <h5>com PHP, Javascript, CSS e Bootstrap</h5>
 
+    <div class="row">
+      <div class="col m-2"><img src="img/html.png" alt="" width="50px"></div>
+      <div class="col m-2"><img src="img/css.png" alt="" width="50px"></div>
+      <div class="col m-2"><img src="img/javascript.png" alt="" width="50px"></div>
+      <div class="col m-2"><img src="img/php.png" alt="" width="50px"></div>
+      <div class="col m-2"><img src="img/bootstrap.png" alt="" width="50px"></div>
+      <div class="col m-2"><img src="img/mysql.png" alt="" width="50px"></div>
+    </div>
+
+    
+
+    
+
 </div>
 
 </body>
